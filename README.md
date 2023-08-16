@@ -1,4 +1,4 @@
-# Olá, me chamo Alie Santana
+# Olá, me chamo Aline Santana
 
 Sou formada em Licenciatura Plena em Matemática, e estou em busca de migrar para área de programação. Atualmente estou fazendo um curso de Programador Web pelo SENAC.
 
