@@ -1,6 +1,6 @@
 # Olá, me chamo Aline Santana
 
-Sou formada em Licenciatura Plena em Matemática, e estou em busca de migrar para área de programação. Atualmente estou fazendo um curso de Programador Web pelo SENAC.
+Atualmente, estou mudando para área de desenvolvimento de software, e me capacitando no curso da Cubos Academy que tem foco em JavaScript, Node.js, SQL e Git.
 
 As linguagens que no momento mais tenho conhecimento são HTML, CSS e JavaScript.
 
