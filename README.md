@@ -1,6 +1,6 @@
 # Olá, me chamo Aline Santana
 
-Sou estudante de Análise e Densenvolvimento de Sistema.
+Sou estudante de Análise e Desenvolvimento de Sistema.
 
 Atualmente, estou mudando para área de desenvolvimento de software, e me capacitando no curso da Cubos Academy que tem foco em JavaScript, Node.js, SQL e Git.
 
